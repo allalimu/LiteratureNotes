@@ -15,6 +15,14 @@ This is no longer the case since. Life changed and things happened and now i don
 4. When reviewing is finished, TODO Tags will be removed from the file.
 5. If interest was lost in the material, a \.nah is added to the file name before \.md.
 
+## Sections Explanation
+
+Most sections are self-explanatory in nature. The following is an explanation for the not so obvious folders/files.
+
+### PlanningToReview
+
+As a researcher wannabe (lol), i often plan to learn on a subject through a body of literature, sometimes in a certain order, and each md file in this folder will explain this part.
+
 --------
 
 ###### That's it. That's the ReadMe file.
