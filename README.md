@@ -1,11 +1,11 @@
-# LiteratureNotes
+# Literature Notes
 
 This Repository is used to save my own notes and summaries of the papers / videos / books.
 
 ## What's Different this time?
 
 The previous tries i tried to care about how it looks and became a stressful job to write notes and sharing them.
-This is no longer the case since. Life changed and things happened and now i don't care if i look bad doing what i want. So ... That's that.
+This is no longer the case since.lose Life changed and things happened and now i don't care if i look bad doing what i want. So ... That's that.
 
 ## Work Flow
 
@@ -24,5 +24,3 @@ Most sections are self-explanatory in nature. The following is an explanation fo
 As a researcher wannabe (lol), i often plan to learn on a subject through a body of literature, sometimes in a certain order, and each md file in this folder will explain this part.
 
 --------
-
-###### That's it. That's the ReadMe file.
