@@ -11,16 +11,16 @@ Don't read the paper in the order that it's printed into.
    * look at the abstract, the most important part
    * look at the conclusion.if during doing this, you found it not interesting, stop and move on to another paper
 
-2. Reading 
-    * figures, captions and tables. Fastest way to get into the important information
+2. Reading
+    * figures, captions and tables. The fastest way to get into the important information
     * read the introduction
             Providing background needed
-            Why the study has been done
-    * Hardest part:  Results and discussion
+            Why the study has been done.
+    * The Hardest part: Results and discussion
     * experimental parts and details are there if you really are interested.
 
 3. Write Notes!!!
-   * it will be useful
+   * It will be useful
 
 ## Last Remarks
 

@@ -1,4 +1,4 @@
-# George Whitesides - How to Write a Paper to Communicate Your Research
+# George Whitesides \- How to Write a Paper to Communicate Your Research
 
 TODO : Complete this Review
 

@@ -1,4 +1,4 @@
-# George Whitesides - Writing so people notice
+# George Whitesides \- Writing so people notice
 
 TODO : Complete this Review
 

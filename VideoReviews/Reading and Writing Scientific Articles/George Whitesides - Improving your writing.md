@@ -1,4 +1,4 @@
-# George Whitesides - Improving your writing
+# George Whitesides \- Improving your writing
 
 TODO : Complete this Review
 
