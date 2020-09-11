@@ -7,6 +7,14 @@ This Repository is used to save my own notes and summaries of the papers / video
 The previous tries i tried to care about how it looks and became a stressful job to write notes and sharing them.
 This is no longer the case since. Life changed and things happened and now i don't care if i look bad doing what i want. So ... That's that.
 
+## Work Flow
+
+1. Create a md file with \.todo as part of the name, add a TODO tag with resource link in it and push it into the repository.
+2. Review the resource and Write my notes on the subject.
+3. Push the notes into the repository.
+4. When reviewing is finished, TODO Tags will be removed from the file.
+5. If interest was lost in the material, a \.nah is added to the file name before \.md.
+
 --------
 
 ###### That's it. That's the ReadMe file.
