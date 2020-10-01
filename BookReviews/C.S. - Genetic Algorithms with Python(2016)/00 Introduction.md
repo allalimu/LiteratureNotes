@@ -7,7 +7,7 @@ A Machine learning algorithm/technique used to find good, sometimes, optimal sol
 To be clear, all problems in theory are just a search-based problems and have a huge space of possible solutions.
 Genetic algorithm search for the solution in this space by generating candidate solutions which belong to that space.
 
-Genetic algorithms uses constraints and rules provided in order to find the optimal solutions to the problem at hand. Each constraint blocks certain amount of solutions from being offered which narrows down the size of the space it looks into.
+Genetic algorithms uses constraints and rules provided in order to find the optimal solutions to the problem at hand. Each constraint blocks certain amount of solutions from being offered by narrowing down the size of the space it looks into.
 
 ## Goal oriented problem solving
 
